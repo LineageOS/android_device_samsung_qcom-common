@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_7625b0c0",
+        "filename": "rootdir/etc/init.qcom.usb.sh",
+        "patchSetId": 3
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2013-10-15T20:22:33Z",
+      "side": 1,
+      "message": "a lot of these differences seem like they were made for cm and shouldn\u0027t be changed.",
+      "revId": "01d5f5466454c9672c0fa084115bb77ca754ff79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
