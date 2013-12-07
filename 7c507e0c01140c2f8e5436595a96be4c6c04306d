@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa80f949_43fc793e",
+        "filename": "rootdir/etc/init.recovery.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2967
+      },
+      "writtenOn": "2013-12-07T02:57:43Z",
+      "side": 1,
+      "message": "\"perf_mode\u003d0\" should be \"perf.mode\u003d0\" if i\u0027m not wrong...",
+      "revId": "7c507e0c01140c2f8e5436595a96be4c6c04306d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
