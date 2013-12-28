@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_fc350df7",
+        "filename": "rootdir/etc/init.qcom.early_boot.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2013-12-28T00:55:38Z",
+      "side": 0,
+      "message": "rtc should take care of this",
+      "revId": "69d46da33b37246c419c7c0683b13ad4e8e4170b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

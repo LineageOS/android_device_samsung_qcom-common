@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_10048513",
+        "filename": "qcom-common.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2013-12-28T00:55:38Z",
+      "side": 1,
+      "message": "scripts have been removed but they are asked for packages",
+      "revId": "20ee7cd5590b019e38da09163baa00200507d092",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_b008192a",
+        "filename": "rootdir/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2013-12-28T00:55:38Z",
+      "side": 1,
+      "message": "same as above. remove the packages especially as we are not adding these scripts",
+      "revId": "20ee7cd5590b019e38da09163baa00200507d092",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
