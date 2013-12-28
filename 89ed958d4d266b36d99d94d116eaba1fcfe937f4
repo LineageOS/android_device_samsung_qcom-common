@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_f3e8db18",
+        "filename": "rootdir/etc/init.qcom.early_boot.sh",
+        "patchSetId": 6
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2013-12-28T11:38:52Z",
+      "side": 1,
+      "message": "no need to reset date/time here, we have rtc",
+      "revId": "89ed958d4d266b36d99d94d116eaba1fcfe937f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
