@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_f3a0dba7",
+        "filename": "rootdir/etc/init.qcom.lpm_boot.sh",
+        "patchSetId": 7
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 444
+      },
+      "writtenOn": "2013-12-28T12:35:17Z",
+      "side": 1,
+      "message": "lpm_resources doesn\u0027t exist on 8930, and probably not on 8960 either. Not sure if it matters though.",
+      "revId": "fa21b269cee5dd59a09854c1bf0012ce24cfc20d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
