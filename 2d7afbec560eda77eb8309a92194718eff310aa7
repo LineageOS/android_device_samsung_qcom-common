@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_86c58d5c",
+        "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-01-20T07:14:27Z",
+      "side": 1,
+      "message": "sorry, i\u0027m real happy for you and all, but noobnl is the biggest whitespace master of all time.\n\nOF ALL TIME!!!!",
+      "revId": "2d7afbec560eda77eb8309a92194718eff310aa7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
