@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "5a5ae5dd_e6afa17b",
+        "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 5681
+      },
+      "writtenOn": "2014-01-20T09:18:22Z",
+      "side": 1,
+      "message": "varient?\nshouldnt it be variant",
+      "revId": "2d7afbec560eda77eb8309a92194718eff310aa7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a5ae5dd_86c58d5c",
         "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
         "patchSetId": 2
