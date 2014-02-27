@@ -54,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "bae84128_7d9050ed",
+        "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2014-02-27T17:28:16Z",
+      "side": 0,
+      "message": "Guess who gets to upload the necessary patches? :D",
+      "parentUuid": "bae84128_3d86c8b9",
+      "revId": "5253799348a820f94a39153b84af37fcd219e4ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bae84128_fda3c04d",
         "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
         "patchSetId": 1
