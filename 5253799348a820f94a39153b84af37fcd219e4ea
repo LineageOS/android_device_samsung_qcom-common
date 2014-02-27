@@ -19,6 +19,40 @@
     },
     {
       "key": {
+        "uuid": "bae84128_1d9f8404",
+        "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2014-02-27T17:25:23Z",
+      "side": 0,
+      "message": "d2, apex, serrano and other devices need this",
+      "revId": "5253799348a820f94a39153b84af37fcd219e4ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_fda3c04d",
+        "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2014-02-27T17:25:23Z",
+      "side": 0,
+      "message": "some devices may need this",
+      "revId": "5253799348a820f94a39153b84af37fcd219e4ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bae84128_dd94fce9",
         "filename": "rootdir/etc/init.qcom.usb.sh",
         "patchSetId": 1
