@@ -72,6 +72,24 @@
     },
     {
       "key": {
+        "uuid": "bae84128_bdc018e2",
+        "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 7874
+      },
+      "writtenOn": "2014-02-27T17:29:46Z",
+      "side": 0,
+      "message": "lol.  leave it -2 for now.  i will look as kk roms drop",
+      "parentUuid": "bae84128_7d9050ed",
+      "revId": "5253799348a820f94a39153b84af37fcd219e4ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bae84128_fda3c04d",
         "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
         "patchSetId": 1
