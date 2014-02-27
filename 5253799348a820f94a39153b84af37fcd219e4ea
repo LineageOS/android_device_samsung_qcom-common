@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "bae84128_3d86c8b9",
+        "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 7874
+      },
+      "writtenOn": "2014-02-27T17:27:23Z",
+      "side": 0,
+      "message": "yeah.  theyre going to need device update as well for this change.",
+      "parentUuid": "bae84128_1d9f8404",
+      "revId": "5253799348a820f94a39153b84af37fcd219e4ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bae84128_fda3c04d",
         "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
         "patchSetId": 1
