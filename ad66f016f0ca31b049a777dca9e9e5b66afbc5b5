@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_fbe28b9e",
+        "filename": "rootdir/etc/init.qcom.lpm_boot.sh",
+        "patchSetId": 3
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-06-05T00:55:50Z",
+      "side": 1,
+      "message": "what the new case?",
+      "revId": "ad66f016f0ca31b049a777dca9e9e5b66afbc5b5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_5bee178c",
+        "filename": "rootdir/etc/lpm.rc",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-06-05T00:55:50Z",
+      "side": 1,
+      "message": "might as well use spaces here while we\u0027re at it",
+      "revId": "ad66f016f0ca31b049a777dca9e9e5b66afbc5b5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
