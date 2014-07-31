@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_e16ca39e",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 883
+      },
+      "writtenOn": "2014-07-31T13:07:06Z",
+      "side": 1,
+      "message": "BSP is more of a blob(graphic drivers) dependancy.  I am not sure if this is the right location.",
+      "revId": "d57f4a29b8cfb003043e801bd96c2e58affa1fe8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
