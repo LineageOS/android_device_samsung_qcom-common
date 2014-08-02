@@ -16,6 +16,24 @@
       "revId": "c29519ea877b418fefab454668e74c32e1e70316",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_36bb7ac6",
+        "filename": "rootdir/etc/init.recovery.qcom.rc",
+        "patchSetId": 6
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 444
+      },
+      "writtenOn": "2014-08-02T15:08:22Z",
+      "side": 1,
+      "message": "l2 is 8974 specific it seems. It also uses lpm_resources, and not rpm_resources.\n\ncase \"$target\" in\n    \"msm8974\")\n        echo 2 \u003e /sys/module/lpm_resources/enable_low_power/l2",
+      "parentUuid": "9a061dce_f6aaa26f",
+      "revId": "c29519ea877b418fefab454668e74c32e1e70316",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
