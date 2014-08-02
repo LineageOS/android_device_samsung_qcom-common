@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_f6aaa26f",
+        "filename": "rootdir/etc/init.recovery.qcom.rc",
+        "patchSetId": 6
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 444
+      },
+      "writtenOn": "2014-08-02T15:01:04Z",
+      "side": 1,
+      "message": "On 8930, L2_cache is the correct node.",
+      "revId": "c29519ea877b418fefab454668e74c32e1e70316",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
