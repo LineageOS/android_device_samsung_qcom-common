@@ -34,6 +34,24 @@
       "revId": "c29519ea877b418fefab454668e74c32e1e70316",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_d6d15efd",
+        "filename": "rootdir/etc/init.recovery.qcom.rc",
+        "patchSetId": 6
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-02T16:45:59Z",
+      "side": 1,
+      "message": "Oh, damn. I\u0027ll just have it write to both sets of nodes. Although to be fair, I\u0027d rather all this be in the platform specific init scripts anyway.",
+      "parentUuid": "9a061dce_36bb7ac6",
+      "revId": "c29519ea877b418fefab454668e74c32e1e70316",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
