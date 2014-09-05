@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_14047015",
+        "filename": "qcom-common.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-05T05:16:38Z",
+      "side": 0,
+      "message": "Leave call_ring.multiple here, every qualcomm does in fact require that.",
+      "revId": "8cc11fae54026de7b9ee145ba0a38de383f7dd4b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
