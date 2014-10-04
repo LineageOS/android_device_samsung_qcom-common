@@ -34,6 +34,24 @@
       "revId": "edb8faf4b3f47180a6d89c5b4e210031324777c2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_ef78d6f4",
+        "filename": "overlay/packages/apps/Mms/res/xml-mcc311-mnc220/mms_config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2814
+      },
+      "writtenOn": "2014-10-04T10:11:08Z",
+      "side": 1,
+      "message": "yeah you need both as multpart is enabled by default in the app repo",
+      "parentUuid": "7a1b2928_6f84c6d3",
+      "revId": "edb8faf4b3f47180a6d89c5b4e210031324777c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
