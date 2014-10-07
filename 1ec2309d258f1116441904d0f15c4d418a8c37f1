@@ -135,6 +135,24 @@
       "revId": "1ec2309d258f1116441904d0f15c4d418a8c37f1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_724aeaad",
+        "filename": "overlay/packages/apps/Mms/res/xml-mcc311-mnc225/mms_config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2814
+      },
+      "writtenOn": "2014-10-07T11:38:56Z",
+      "side": 1,
+      "message": "i just copied all of this from the sprint version of this xml within qcom-common. so all the other xmls in this repo have these. but yes those are the only relevant options (the ones below) so guess it shouldnt matter",
+      "parentUuid": "7a1b2928_126f36c6",
+      "revId": "1ec2309d258f1116441904d0f15c4d418a8c37f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
