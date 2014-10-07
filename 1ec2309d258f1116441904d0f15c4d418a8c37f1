@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_f25a7a29",
+        "filename": "overlay/packages/apps/Mms/res/xml-mcc311-mnc225/mms_config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-07T05:46:08Z",
+      "side": 1,
+      "message": "Do you really want to override this in qcom-common?",
+      "revId": "1ec2309d258f1116441904d0f15c4d418a8c37f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_52424e3f",
+        "filename": "overlay/packages/apps/Mms/res/xml-mcc311-mnc225/mms_config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-07T05:46:08Z",
+      "side": 1,
+      "message": "Same as above.",
+      "revId": "1ec2309d258f1116441904d0f15c4d418a8c37f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_323d12bc",
+        "filename": "overlay/packages/apps/Mms/res/xml-mcc311-mnc225/mms_config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-07T05:46:08Z",
+      "side": 1,
+      "message": "Same as above.",
+      "revId": "1ec2309d258f1116441904d0f15c4d418a8c37f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_924ce671",
+        "filename": "overlay/packages/apps/Mms/res/xml-mcc311-mnc225/mms_config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-07T05:46:08Z",
+      "side": 1,
+      "message": "Same as above.",
+      "revId": "1ec2309d258f1116441904d0f15c4d418a8c37f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_72478a4b",
+        "filename": "overlay/packages/apps/Mms/res/xml-mcc311-mnc225/mms_config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-07T05:46:08Z",
+      "side": 1,
+      "message": "This is in bools.xml no?",
+      "revId": "1ec2309d258f1116441904d0f15c4d418a8c37f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_d2749e9d",
+        "filename": "overlay/packages/apps/Mms/res/xml-mcc311-mnc225/mms_config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-07T05:46:08Z",
+      "side": 1,
+      "message": "Same as above.",
+      "revId": "1ec2309d258f1116441904d0f15c4d418a8c37f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_b277629e",
+        "filename": "overlay/packages/apps/Mms/res/xml-mcc311-mnc225/mms_config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-07T05:46:08Z",
+      "side": 1,
+      "message": "Same as above.",
+      "revId": "1ec2309d258f1116441904d0f15c4d418a8c37f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_126f36c6",
+        "filename": "overlay/packages/apps/Mms/res/xml-mcc311-mnc225/mms_config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-07T05:46:08Z",
+      "side": 1,
+      "message": "Do you really want to override this in qcom-common?",
+      "revId": "1ec2309d258f1116441904d0f15c4d418a8c37f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
