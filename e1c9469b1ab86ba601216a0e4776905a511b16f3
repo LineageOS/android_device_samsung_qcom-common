@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_01b7de86",
+        "filename": "rootdir/etc/postrecoveryboot.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-10-12T09:38:18Z",
+      "side": 1,
+      "message": "I really REALLY don\u0027t like using partition numbers\nFor these devices, maintainers should take care of it in their device trees.",
+      "revId": "e1c9469b1ab86ba601216a0e4776905a511b16f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
