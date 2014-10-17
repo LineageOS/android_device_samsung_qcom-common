@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a18252c_b8e83518",
+        "filename": "qcom-common.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-17T08:07:16Z",
+      "side": 1,
+      "message": "Probably didn\u0027t want to replace $(LOCAL_PATH) with device/samsung/qcom-common",
+      "revId": "5658d6da3b975aca7789776e5240b47c36acddf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
