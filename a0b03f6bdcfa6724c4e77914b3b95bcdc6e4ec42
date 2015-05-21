@@ -22,6 +22,30 @@
       "revId": "a0b03f6bdcfa6724c4e77914b3b95bcdc6e4ec42",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_a96aaa18",
+        "filename": "doze/src/com/cyanogenmod/settings/device/SamsungDozeService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 12116
+      },
+      "writtenOn": "2015-05-21T08:56:31Z",
+      "side": 1,
+      "message": "Yeah, Didn\u0027t even notice that missing.  Should be there.",
+      "parentUuid": "9a89bdaa_0979d6fc",
+      "range": {
+        "startLine": 100,
+        "startChar": 15,
+        "endLine": 100,
+        "endChar": 40
+      },
+      "revId": "a0b03f6bdcfa6724c4e77914b3b95bcdc6e4ec42",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
