@@ -16,6 +16,24 @@
       "revId": "59d1cfc65b277af3eb26dc4f10b22b5fe2ee4083",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_d801e4b1",
+        "filename": "doze/src/com/cyanogenmod/settings/device/SamsungDozeService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 6334
+      },
+      "writtenOn": "2015-07-25T18:02:15Z",
+      "side": 1,
+      "message": "Ya probably a better idea",
+      "parentUuid": "df140735_8509c5de",
+      "revId": "59d1cfc65b277af3eb26dc4f10b22b5fe2ee4083",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
