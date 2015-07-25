@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_8509c5de",
+        "filename": "doze/src/com/cyanogenmod/settings/device/SamsungDozeService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-25T10:55:39Z",
+      "side": 1,
+      "message": "Might be better to check right off if timestamp is in the future or not, since you probably don\u0027t want to pulse if it\u0027s in the future.",
+      "revId": "59d1cfc65b277af3eb26dc4f10b22b5fe2ee4083",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
