@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f0e0f27_6ced7f24",
+        "filename": "Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2015-08-06T17:10:05Z",
+      "side": 1,
+      "message": "nit-picking, but this should probably be before msm8960 so they\u0027re in numerical order",
+      "range": {
+        "startLine": 26,
+        "startChar": 22,
+        "endLine": 26,
+        "endChar": 30
+      },
+      "revId": "990010fbc07f686c9d74e962a82b9f2908f725d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
