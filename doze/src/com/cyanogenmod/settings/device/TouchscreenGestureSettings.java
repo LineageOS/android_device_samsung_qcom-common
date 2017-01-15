@@ -16,11 +16,14 @@
 
 package com.cyanogenmod.settings.device;
 
+import android.app.ActionBar;
 import android.os.Bundle;
 import android.support.v14.preference.PreferenceFragment;
 import android.support.v14.preference.SwitchPreference;
 import android.support.v7.preference.Preference;
 import android.provider.Settings;
+import android.view.Menu;
+import android.view.MenuItem;
 
 import org.cyanogenmod.internal.util.ScreenType;
 
@@ -42,6 +45,9 @@ public class TouchscreenGestureSettings extends PreferenceFragment {
         mProximityWakePreference =
             (SwitchPreference) findPreference(KEY_PROXIMITY_WAKE);
         mProximityWakePreference.setOnPreferenceChangeListener(mProximityListener);
+
+        final ActionBar actionBar = getActionBar();
+        actionBar.setDisplayHomeAsUpEnabled(true);
     }
 
     @Override
@@ -52,6 +58,15 @@ public class TouchscreenGestureSettings extends PreferenceFragment {
         if (!ScreenType.isTablet(getContext())) {
             getListView().setPadding(0, 0, 0, 0);
         }
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == android.R.id.home) {
+            onBackPressed();
+            return true;
+        }
+        return false;
     }
 
     private Preference.OnPreferenceChangeListener mProximityListener =
