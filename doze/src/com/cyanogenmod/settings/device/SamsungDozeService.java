@@ -144,7 +144,7 @@ public class SamsungDozeService extends Service {
     }
 
     private void launchDozePulse() {
-        mContext.sendBroadcast(new Intent(DOZE_INTENT));
+        mContext.sendBroadcastAsUser(new Intent(DOZE_INTENT), new UserHandle(UserHandle.USER_CURRENT));
     }
 
     private boolean isInteractive() {
