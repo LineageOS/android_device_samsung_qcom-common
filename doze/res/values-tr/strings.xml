@@ -24,5 +24,5 @@
   <string name="pocket_gesture_summary">Cepten çıkarınca bildirimleri at</string>
   <string name="proximity_wake_title">Harekette uyandır</string>
   <string name="proximity_wake_enable_title">Harekette uyandır</string>
-  <string name="proximity_wake_enable_summary">El sallamasında cihazı uyandır</string>
+  <string name="proximity_wake_enable_summary">El sallayınca cihazı uyandır</string>
 </resources>
