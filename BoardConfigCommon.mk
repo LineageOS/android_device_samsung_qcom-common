@@ -29,6 +29,7 @@ BOARD_HARDWARE_CLASS += hardware/samsung/cmhw
 # Graphics
 TARGET_USES_C2D_COMPOSITION := true
 TARGET_USES_ION := true
+TARGET_USES_GRALLOC1 := true
 # Qualcomm support
 BOARD_USES_QCOM_HARDWARE := true
 
