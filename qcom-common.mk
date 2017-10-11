@@ -14,7 +14,7 @@
 
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
-    device/samsung/qcom-common/overlay-lineage \
+#    device/samsung/qcom-common/overlay-lineage \
     device/samsung/qcom-common/overlay
 
 PRODUCT_PROPERTY_OVERRIDES += \
