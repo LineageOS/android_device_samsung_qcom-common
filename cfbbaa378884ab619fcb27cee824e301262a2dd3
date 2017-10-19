@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5b67321b_59827f45",
+        "filename": "doze/src/org/lineageos/settings/device/SamsungDozeActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-10-19T08:19:17Z",
+      "side": 1,
+      "message": "Should be replaced with:\n\nimport android.preference.PreferenceActivity;",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 19,
+        "endChar": 39
+      },
+      "revId": "cfbbaa378884ab619fcb27cee824e301262a2dd3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
