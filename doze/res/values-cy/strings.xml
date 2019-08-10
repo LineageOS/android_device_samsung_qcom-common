@@ -13,5 +13,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Gesture shortcuts -->
+    <string name="screen_gestures_panel_title">Ystumiau</string>
+    <string name="ambient_display_title">Dangosydd amgylcheddol</string>
+    <string name="ambient_display_enable_title">Dangosydd amgylcheddol</string>
+    <string name="ambient_display_enable_summary">Deffro\'r sgrin pan mae hysbysiadau\'n cael eu derbyn</string>
+    <string name="hand_wave_gesture_title">Codi llaw</string>
+    <string name="hand_wave_gesture_summary">Hysbysiadau curiad wrth godi llaw</string>
+    <string name="pocket_gesture_title">Poced</string>
+    <string name="pocket_gesture_summary">Hysbysiadau curiad wrth dynnu o\'r boced</string>
+    <string name="proximity_wake_title">Deffro yn ôl agosrwydd</string>
+    <string name="proximity_wake_enable_title">Deffro yn ôl agosrwydd</string>
+    <string name="proximity_wake_enable_summary">Deffro\'r ddyfais wrth godi llaw</string>
 </resources>

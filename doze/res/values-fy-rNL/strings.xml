@@ -13,5 +13,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Gesture shortcuts -->
+    <string name="screen_gestures_panel_title">Gebearen</string>
+    <string name="ambient_display_title">Omjouwingsdisplay</string>
+    <string name="ambient_display_enable_title">Omjouwingsdisplay</string>
+    <string name="ambient_display_enable_summary">Skerm oan by it ûntfangen fan meldingen</string>
+    <string name="hand_wave_gesture_title">Hângebeart</string>
+    <string name="hand_wave_gesture_summary">Meldingen knipperje litte by hângebeart</string>
+    <string name="pocket_gesture_title">Bûse</string>
+    <string name="pocket_gesture_summary">Meldingen knipperje litte by fuortheljen út bûse</string>
+    <string name="proximity_wake_title">Wekker wurde by tichteby</string>
+    <string name="proximity_wake_enable_title">Wekker wurde by tichteby</string>
+    <string name="proximity_wake_enable_summary">Apparaat wekker wurde by hângebeart</string>
 </resources>

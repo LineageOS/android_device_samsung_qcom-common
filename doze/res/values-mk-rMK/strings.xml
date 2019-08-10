@@ -13,5 +13,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Gesture shortcuts -->
+    <string name="screen_gestures_panel_title">Гестови</string>
+    <string name="ambient_display_title">Амбиентален екран</string>
+    <string name="ambient_display_enable_title">Амбиентален екран</string>
+    <string name="ambient_display_enable_summary">Разбудете го екранот кога ќе примите известувања</string>
+    <string name="hand_wave_gesture_title">Замав со рака</string>
+    <string name="hand_wave_gesture_summary">Пулсирај известувања при замав со рака</string>
+    <string name="pocket_gesture_title">Џеб</string>
+    <string name="pocket_gesture_summary">Пулсирај известувања кога го вадите мобилниот од џеб</string>
+    <string name="proximity_wake_title">Будење од близина</string>
+    <string name="proximity_wake_enable_title">Будење од близина</string>
+    <string name="proximity_wake_enable_summary">Разбуди го уредот при замав со рака</string>
 </resources>
