@@ -16,6 +16,9 @@
 DEVICE_PACKAGE_OVERLAYS += \
     device/samsung/qcom-common/overlay
 
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
+    device/samsung/qcom-common/overlay/lineage-sdk
+
 PRODUCT_PROPERTY_OVERRIDES += \
     debug.sf.hw=1 \
     debug.mdpcomp.logs=0 \
