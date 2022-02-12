@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2015 The CyanogenMod Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screen_gestures_panel_title">Gjestet</string>
+    <string name="ambient_display_title">Drita e ekranit sipas ambientit</string>
+    <string name="ambient_display_enable_title">Drita e ekranit sipas ambientit</string>
+    <string name="ambient_display_enable_summary">Ndiz ekranin kur të vijnë njoftime</string>
+    <string name="hand_wave_gesture_title">Kalimi sipër i dorës</string>
+    <string name="hand_wave_gesture_summary">Shfaq njoftimet kur i kalon dorën sipër</string>
+    <string name="pocket_gesture_title">Xhepi</string>
+    <string name="pocket_gesture_summary">Shfaq njoftimet kur e nxjerr nga xhepi</string>
+    <string name="proximity_wake_title">Aktivizimi prej afërsisë</string>
+    <string name="proximity_wake_enable_title">Aktivizimi prej afërsisë</string>
+    <string name="proximity_wake_enable_summary">Ndiz pajisjen kur i kalon dorën sipër</string>
+</resources>
